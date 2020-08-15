@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Movie-Info-Service"/>
+<aop-project name="Ratings-Data-Service"/>
+<aop-project name="Movie-Catalog-Service"/>
+</aop-reference-model>
